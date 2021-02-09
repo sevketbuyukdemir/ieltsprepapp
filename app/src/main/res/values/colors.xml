@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#247575</color>
+    <color name="purple_500">#004D8F</color>
+    <color name="purple_700">#066060</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- MainActivity Colors -->
+    <color name="main_activity_background">#D1B818</color>
+    <color name="tv_text_color">#D81117</color>
+    <color name="btn_listening">#D81D1D</color>
+    <color name="btn_reading">#CA772E</color>
+    <color name="btn_speaking">#248198</color>
+    <color name="btn_writing">#8257D1</color>
+
+    <!-- ListeningActivity Colors -->
+    <color name="listening_activity_background">#043045</color>
+    <color name="custom_media_player_background_color">#DDBB1F</color>
+    <color name="custom_media_player_text_color">#084F70</color>
+    <color name="custom_media_player_separator_color">#00FFDF</color>
+    <color name="listening_layout_tab_layout_background_color">#004D8F</color>
+    <color name="listening_layout_tab_layout_text_color">#00AFAF</color>
+    <color name="listening_layout_tab_layout_selected_text_color">#00FFFF</color>
+
+    <!-- ReadingActivity Colors -->
+    <color name="reading_activity_background">#043045</color>
+    <color name="reading_activity_text_color">#FFFFFFFF</color>
+    <color name="reading_layout_tab_layout_background_color">#004D8F</color>
+    <color name="reading_layout_tab_layout_text_color">#00AFAF</color>
+    <color name="reading_layout_tab_layout_selected_text_color">#00FFFF</color>
+</resources>

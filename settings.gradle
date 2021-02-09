@@ -1,0 +1,2 @@
+rootProject.name = "ieltsprepapp"
+include ':app'

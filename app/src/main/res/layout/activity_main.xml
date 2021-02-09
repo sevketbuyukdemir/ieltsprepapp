@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/main_activity_background"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/txt_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@color/tv_text_color"
+        android:text="@string/tv_screen_text"
+        android:gravity="center_horizontal" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_listening"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:background="@color/btn_listening"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="@string/btn_listening"
+            android:gravity="center_horizontal" />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_reading"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:background="@color/btn_reading"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="@string/btn_reading"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_speaking"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:background="@color/btn_speaking"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="@string/btn_speaking"
+            android:gravity="center_horizontal" />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_writing"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:background="@color/btn_writing"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:text="@string/btn_writing"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+</LinearLayout>

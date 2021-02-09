@@ -1,0 +1,373 @@
+<resources>
+    <string name="app_name">IELTSPrepApp</string>
+
+    <!-- MainActivity Strings -->
+    <string name="tv_screen_text">Prepare for IELTS with our free practice tests and answers.
+        Use these tests to carry out timed practice sessions and develop your test technique. </string>
+    <string name="btn_listening">LISTENING</string>
+    <string name="btn_reading">READING</string>
+    <string name="btn_speaking">SPEAKING</string>
+    <string name="btn_writing">WRITING</string>
+
+    <!-- ListeningActivity Texts -->
+    <string name="submit_button_text">SUBMIT</string>
+    <string name="submit_button_text_submitted">SUBMITTED</string>
+    <string name="custom_media_player_title_text">Title</string>
+    <string name="custom_media_player_description_text">Press for listening:</string>
+    <string name="custom_media_player_description_text_playing">State : Playing</string>
+    <string name="custom_media_player_description_text_stopped">State : Stopped</string>
+    <string name="custom_fill_blank_view_submit_blank_text">SUBMIT</string>
+
+    <!-- ReadingActivity Texts -->
+    <string name="reading_first_warning">READING PASSAGE 1\n
+        You should spend about 20 minutes on Questions\n
+        1–13, which are based on Reading Passage 1 below.</string>
+    <string name="reading_first_title">EXTRACTION AND PURIFICATION OF DRINKING WATER</string>
+    <string name="reading_first_paragraph_first">Some consumers choose to purchase bottled drinking water,
+        rather than relying on city tap water supplies. Bottled water has typically been extracted
+        from underground sources. If water exists underground, but has no natural exit points,
+        bottling companies may construct a water table well by drilling down to extract water from
+        an unconfined aquifer. This is done when the Earth’s natural water level-known as a water
+        table – is much lower than the Earth’s surface. In some cases, as with a valley or gully on
+        a mountain, the level of the water table may be higher than the Earth’s surface, and a
+        natural spring can emerge. Bottling companies are permitted to extract this water from a
+        hole drilled into the underground spring, but the composition of the water must be identical
+        to that of the naturally surfacing variety nearby.</string>
+    <string name="reading_first_paragraph_second">Artesian water is drawn from a confined aquifer,
+        a deep underground cavity of porous rock that holds water and bears pressure from a
+        confining layer above it. This water can be accessed if companies drill a vertical channel
+        down into the confined aquifer. Due to the pressurised nature of this aquifer, water will
+        often rise up from within it and form a flowing artesian well, which appears as an explosive
+        fountain at the earth’s surface. However, this only occurs when the surface is lower than
+        the natural water table. If the surface is not lower than the natural water table, it is
+        still possible to draw artesian water by using an extraction pump.</string>
+    <string name="reading_first_paragraph_third">Some bottled water is advertised as ‘purified’,
+        which means it has been subjected to a variety of different cleansing processes. A common
+        filtering procedure, known as reverse osmosis, involves the water being pressed through
+        microscopic membranes that prevent larger contaminants from passing through. The microscopic
+        size of these holes is such that they can even obstruct germs, but they are most effective
+        against undesirable materials such as salt, nitrates and lime scale. One disadvantage of
+        reverse osmosis is that a lot of unusable water is generated as a by-product of the
+        procedure; this must be thrown away.</string>
+    <string name="reading_first_paragraph_forth">For treating pathogens, an impressive newer option
+        is ultraviolet (UV) light. Powerful UV light has natural antibacterial qualities, so this
+        process simply requires water to be subjected to a sufficient strength of UV light as it
+        passes through a treatment chamber. The light neutralises many harmful germs by removing their
+        DNA, thereby impeding their ability to replicate. A particularly impressive quality of
+        UV light is its ability to neutralise highly resistant viral agents such as hepatitis.</string>
+    <string name="reading_first_paragraph_fifth">The overall effects of UV light treatment are variable,
+        however, which leaves many municipal water treatment processes relying on chlorination. Its
+        powerful and comprehensive antimicrobial effect not-withstanding, chlorination is also extremely
+        inexpensive and remains the only antimicrobial treatment capable of ensuring water remains
+        contaminant-free all the way through the pipes and to the taps of domestic homes. Many members
+        of the public remain suspicious of water that has been treated with such a harsh chemical.
+        Its ease of use and affordability has meant that chlorine often plays an important role in
+        making tainted water supplies safe for consumption immediately after natural disasters have
+        occurred.</string>
+    <string name="reading_first_paragraph_sixth">Some water also undergoes distillation. This involves
+        water being boiled until it converts to steam, which then passes through a cooling tube and
+        becomes water again. Toxic compounds and impurities such as heavy metal residue are left
+        behind in this process, so the steamed water is typically cleaner than the pre-distilled
+        version. Unfortunately, distillation equipment also removes up to fourteen types of beneficial
+        minerals that naturally occur in water. Consequently, those who rely on distilled water may
+        need to take mineral supplements.</string>
+    <string name="reading_first_paragraph_seventh">In developed countries, all forms of drinking water
+        are typically subject to stringent quality control processes, so there is little evidence to
+        suggest importing bottled water at significant expense will be safer or healthier than regular
+        tap water from a municipal drinking supply. Both tap water and bottled water are tested for
+        pathogens and contaminants and, aside from isolated cases related to issues such as faulty
+        plumbing or old pipes, tap water is harmless. Nevertheless, many purchasers of bottled water
+        still justify their choice on the quite reasonable basis that tap water has a distinctly
+        unpleasant aftertaste related to the chlorination process it has undergone.</string>
+    <string name="reading_first_paragraph_eight"> In Questions 1–5 \n
+        Label the diagram below.</string>
+    <string name="reading_second_warning">READING PASSAGE 2 \n
+        You should spend about 20 minutes on Questions \n
+        14–26, which are based on Reading Passage 2 below.</string>
+    <string name="reading_second_title">THE INTERNATIONAL STYLE</string>
+    <string name="reading_second_paragraph_first">A) In the early decades of the 20th century,
+        many Western cities experienced a steep rise in demand for commercial and civic premises,
+        due to population growth and expansion of the white-collar professions. At the same time,
+        architects were growing discontented with the ornamental spirals and decorative features
+        in the prevailing design ethos of art deco or art moderne. Once considered the height of
+        sophistication, these styles were quickly becoming seen as pretentious and old-fashioned.
+        In this confluence of movements, a new style of architecture emerged. It was simple,
+        practical and strong; a new look for the modern city and the modern man. It was named
+        ‘the international style’.</string>
+    <string name="reading_second_paragraph_second">B) Although the international style first emerged
+        in Western Europe in the 1920s, it found its fullest expression in American architecture and
+        was given its name in a 1932 book of the same title. The first hints of it in America can be
+        seen on the Empire State Building in New York City, which was completed in 1931. The top of
+        the building, with its tapered crown, is decidedly art deco, yet the uniform shaft of the
+        lower two thirds represents a pronounced step in a new direction. Later efforts, such as the
+        United Nations Secretariat building (1952) and the Seagram Building (1954) came to exemplify the
+        ‘true’ international style.</string>
+    <string name="reading_second_paragraph_third">C) The architects of the international style broke
+        with the past by rejecting virtually all non-essential ornamentation. They created blockish,
+        flat-roofed skyscrapers using steel, stone and glass. A typical building facade in this style
+        has an instantly recognisable ribbon design, characterised by strips of floor-to-ceiling
+        windows separated by strips of metal panelling. Interiors showcased open spaces and fluid
+        movements between separate areas of the building.</string>
+    <string name="reading_second_paragraph_forth">D) Fans of the international style of modern
+        buildings celebrated their sleek and economical contribution to modern cityscapes. While
+        pre-modern architecture was typically designed to display the wealth and prestige of its
+        landlords or occupants, the international style in some ways exhibited a more egalitarian
+        tendency. As every building and every floor looked much the same, there was little attempt
+        to use these designs to make a statement. This focus on function and practicality reflected
+        a desire in mid-century Western cities to ‘get on with business’ and ‘give everyone a
+        chance’, rather than lauding the dominant and influential institutions of the day through
+        features such as Romanesque columns.</string>
+    <string name="reading_second_paragraph_fifth">E) Detractors, however, condemned these buildings
+        for showing little in the way of human spirit or creativity. For them, the international
+        style represented not an ethos of equality and progress, but an obsession with profit and
+        ‘the bottom line’ that removed spiritual and creative elements from public life and public
+        buildings. Under the dominance of the international style, cities became places to work and
+        do business, but not to express one’s desires or show individuality. It is perhaps telling
+        that while banks and government departments favoured the international style, arts
+        organisations rarely opted for its austerity.</string>
+    <string name="reading_second_paragraph_sixth">F) By the mid-1970s, the international style was
+        ubiquitous across key urban centres, dominating skylines to such an extent that many
+        travellers complained they could get off a plane and not know where they were. By their
+        nature, buildings in this style demanded very little of architects in the way of imagination,
+        and a younger generation of designers was yearning to express their ideas and experiment
+        in novel and unexpected ways. The outcome was a shift toward postmodernism, which celebrated
+        much of what the international style had dismissed: decoration, style without function, and
+        an overall sense of levity. By the turn of the 1980s, the international style was considered
+        outdated and was falling rapidly out of favour.</string>
+    <string name="reading_third_warning">READING PASSAGE 3 \n
+        You should spend about 20 minutes on Questions \n
+        27–40, which are based on Reading Passage 3 below.</string>
+    <string name="reading_third_title">THE MPEMBA EFFECT</string>
+    <string name="reading_third_paragraph_first">
+        In 300 BC, the famous philosopher Aristotle wrote about a
+        strange phenomenon that he had observed: “Many people, when they want to cool water quickly,
+        begin by putting it in the sun.” Other philosophers over the ages noted the same result, but
+        were unable to explain it. In 1963, a young Tanzanian student named Erasto Mpemba noticed that
+        the ice cream he was making froze faster if the mix was placed in the freezer while warm than
+        if it were at room temperature. He persisted in questioning why this occurred, and eventually
+        physicist Denis Osborne began a serious investigation into what is now known as the Mpemba
+        Effect. He and Mpemba co-authored a paper in New Scientist in 1969, which produced scientific
+        descriptions of some of the many factors at work in freezing water.</string>
+    <string name="reading_third_paragraph_second">
+        It was initially hypothesised that the warm bowl melted itself a place in the
+        ice on the freezer shelf, thus embedding its base in a ‘nest’ of ice, which would accelerate
+        freezing. The hypothesis was tested by comparing the result when bowls of warm water were
+        placed on ice and on a dry wire shelf; this demonstrated that the ice nest actually had
+        little effect. A second suggestion was that the warmer water would be evaporating at its
+        surface, thus reducing the volume needing to be frozen, but this idea was also shown to be
+        insignificant. Thermometers placed in the water showed that the cooler water dropped to
+        freezing temperature well before the warmer bowlful, and yet the latter always froze solid
+        first. Experiments at different temperatures showed that water at 50C took longest to freeze
+        in a conventional freezer, while water initially at 350C was quickest.</string>
+    <string name="reading_third_paragraph_third">
+        On further examination, an explanation for this paradox began to emerge. Losing
+        heat from the water occurs at the points where it is in touch with the colder atmosphere of
+        the freezer, namely the sides of the bowl and the water surface. A warm surface will lose heat
+        faster than a cold one because of the contrast between the temperatures; but of course there
+        is more heat to be lost from one bowl than the other! If the surface can be kept at a higher
+        temperature, the higher rate of heat loss will continue. As long as the water remains liquid,
+        the cooling portion on top will sink to the bottom of the bowl as the warmer water below rises
+        to take its place. The early freezing that may occur on the sides and base of the container
+        will amplify the effect.</string>
+    <string name="reading_third_paragraph_forth">
+        The bowl that is more uniformly cold will have far less temperature difference
+        so the water flow will be minimal. Another inhibiting factor for this container is that ice
+        will also form quite quickly on the surface. This not only acts as insulation, but will
+        virtually stop the helpful effects of the water circulating inside the bowl. Ultimately, the
+        rate of cooling the core of this body of water becomes so slow that the other warmer one is
+        always fully frozen first. While there are limitations to this comparison (for example, we
+        would not see such a result if one quantity were at 10C and another at 990C) this
+        counter-intuitive result does hold true within the 5–350C range of temperatures indicated
+        previously.</string>
+    <string name="reading_third_paragraph_fifth">
+        Since this paper was published, the validity of the research findings has been
+        questioned by a number of reviewers. They point out that the initial experimental question was
+        not clearly defined; for example, the researchers needed to decide on exactly what constituted
+        freezing the water. They also state that the rate at which water freezes depends on a large
+        number of variables.</string>
+    <string name="reading_third_paragraph_sixth">
+        Container size is one of these; for the Mpemba Effect to be noticed, the container
+        must be large enough to allow a free circulation of water to take place, yet small enough for
+        the freezing areas of the side and base to be effective at extracting heat too. Secondly,
+        research at a University in St Louis, Missouri, suggests that the Mpemba Effect may be affected
+        by water purity, or by dissolved gas in the water. Distilled water is totally free of the
+        particles that are common in normal drinking water or mineral water. When suspended in water,
+        these particles may have a small effect on the speed of cooling, especially as ice molecules
+        tend to expel them into the surrounding water, where they become more concentrated. Just as
+        salt dissolved in water will raise the boiling point and lower the temperature at which it
+        freezes, the researchers found that the final portion of ordinary water needed extra cooling,
+        below zero, before all was frozen solid.</string>
+    <string name="reading_third_paragraph_seventh">
+        One more factor that can distort the effect is observed if the bowls are not
+        placed simultaneously into the same freezer. In this case, the freezer thermostat is more
+        likely to register the presence of a hotter bowl than a colder one, and therefore the change
+        in internal temperature causes a boost of freezing power as the motor is activated.</string>
+    <string name="reading_third_paragraph_eight">
+        The Mpemba Effect is still not fully understood, and researchers continue to
+        delve into its underlying physics. Physicists cannot reach consensus. Some suggest that
+        supercooling 1 is involved; others that the molecular bonds in the water molecules affect the
+        rate of cooling and freezing of water. A 2013 competition to explain the phenomenon run by
+        the Royal Society of Chemistry attracted more than 22,000 entries, with the winning one
+        suggesting supercooling as an important factor so it seems the question and its underlying
+        explanation continue to fascinate.</string>
+
+    <!-- WritingActivity Texts -->
+    <string name="writing_first_warning">WRITING TASK 1</string>
+    <string name="writing_first_title">You should spend about 20 minutes on this task.The diagram
+        below shows the stages and equipment used in the process of making matches. Summarize the
+        information by selecting and reporting the main features, and make comparisons where
+        relevant.</string>
+    <string name="writing_first_text_first">Making matches</string>
+    <string name="writing_second_warning">WRITING TASK 1</string>
+    <string name="writing_second_title">MODEL RESPONSE</string>
+    <string name="writing_second_text_first">The diagram shows that the process of manufacturing
+        matches has several stages. The matchsticks are first cut, prepared, dried and moved to a
+        storage area. After that, they are dipped into several chemicals and dried before being
+        packaged.</string>
+    <string name="writing_second_text_second">In the first phase, a log of wood is placed in a peeler
+        and rotated, while a flat blade peels a long, thin sheet of wood, called veneer, from the outer
+        surface of the log. The veneer proceeds to the chopper, which cuts it into small sticks.
+        These are then soaked in a vat of ammonium phosphate. Afterwards, they are placed in a large,
+        rotating drum. From there, the matches are dumped into a hopper and blown through a metal duct
+        to the storage area.</string>
+    <string name="writing_second_text_third">In the next stage, the sticks are moved from the storage
+        area and they fall into a funnel-shaped device which lines them up to be inserted into holes
+        on a long, continuous, perforated steel belt.As the belt moves along, the tips of the matches
+        are dipped in a series of three tanks holding firstly paraffin wax, then base chemicals and
+        finally tip chemicals. Next, the belt loops up and down through a drying area. In the final
+        step of the process, the matches are packaged. \n \n 205 words.</string>
+
+
+    <string name="writing_third_warning">MODEL RESPONSE FEEDBACK</string>
+    <string name="writing_third_title">IELTS examiners rate the IELTS Writing Task 1 using 4 assessment
+        criteria - Task Achievement, Coherence and Cohesion, Lexical Resource and Grammatical Range
+        and Accuracy. Below you’ll find feedback on this sample model response.</string>
+    <string name="writing_third_text_first">
+        1. Task Achievement: What are the main stages of making matches? Is there a summary of these stages anywhere
+        in the response? \n
+        The first paragraph gives a general summary of the stages, which are then described in detail in the next two
+        paragraphs.
+    </string>
+    <string name="writing_third_text_second">
+        2. Coherence and Cohesion: Is the response easy to follow because of paragraphing and cohesive devices?
+        There are three paragraphs here, the second two introduced by clear transitions: “In the first phase”, “In the next
+        stage”. \n
+        The paragraphs correspond to the main stages presented in the diagram and there are a variety of transitions
+        within the paragraphs. “These” “Afterwards, they” “From there”, \n
+        The response is easy to follow.
+    </string>
+    <string name="writing_third_text_third">
+        3. Lexical Resource: Is there a variety of vocabulary, some from the prompt, but other vocabulary not from the
+        prompt? Are words spelled correctly and used correctly?\n
+        Words from the prompt are integrated well into the response and there are no spelling errors. Some words not
+        from the prompt: “manufacturing”, “matchsticks”, “first phase”, “vat”.\n
+        Vocabulary is used with precision and there is a wide range.
+    </string>
+    <string name="writing_third_text_forth">
+        4. Grammatical Range and Accuracy: Are there a variety of sentence structures and are they accurate? Is
+        punctuation accurate? “The matches are first cut”, “…proceeds to the chopper, which cuts it…”, “the sticks are moved…”\n
+        There are a variety of sentence structures, and there are no errors. Punctuation is accurate.
+    </string>
+
+    <string name="writing_forth_warning">WRITING TASK 2</string>
+    <string name="writing_forth_title">You should spend about 40 minutes on this task.</string>
+    <string name="writing_forth_text_first">Write about the following topic:\n
+        Lack of fresh water is becoming a global issue of increasing importance.\n
+        What problems does this shortage cause?\n
+        What measures could be taken to overcome these problems?\n
+        Give reasons for your answer and include any relevant examples from your own knowledge or
+        experience.\n Write at least 250 words.</string>
+    <string name="writing_fifth_warning">WRITING TASK 2</string>
+    <string name="writing_fifth_title">MODEL RESPONSE</string>
+    <string name="writing_fifth_text_first">Water scarcity is becoming a significant global problem with far-reaching effects. Long-term solutions
+require extensive government intervention in programmes, including research and climate mitigation
+measures, but individuals also need to become aware of the need for water conservation. </string>
+    <string name="writing_fifth_text_second">A major problem for all countries is the huge amount of water necessary for agriculture and industry.
+When there is insufficient water, crops fail, animals die and people go hungry. Without an adequate
+water supply, manufacturers, food producers, mining operations and businesses cannot succeed.
+Ultimately, water is the key to economic prosperity. </string>
+    <string name="writing_fifth_text_third">Water shortages create particular difficulties in developing countries. Firstly, many women and
+children in these countries have to spend the whole day walking to and from a remote water source
+to fetch water. Consequently, these children miss school and often do not receive an adequate
+education. Secondly, the water that is available for daily use may be contaminated, and this can lead
+to illness and even death. </string>
+    <string name="writing_fifth_text_forth">One of the most important long-term solutions to this problem is to work towards reducing global
+warming and climate change, as dry regions are becoming drier across the planet. Additionally,
+pollution of waterways needs to be addressed, as we take steps to clean up our existing supplies of
+this precious resource. Many old-fashioned irrigation schemes are generally very wasteful, so funds
+need to be available for research into water conservation and new irrigation technologies. These
+technologies could then be transferred to developing nations. At an individual level, we need to
+become aware of wasteful water-use habits, such as watering lawns in the summer, or pouring our
+grey water down the drain. In conclusion, the inadequate supply of fresh water is one of the most
+crucial environmental problems facing our planet, and we need to work to preserve this precious
+resource.\n 297 words </string>
+
+
+    <string name="writing_sixth_warning">MODEL RESPONSE FEEDBACK</string>
+    <string name="writing_sixth_title">IELTS examiners rate the IELTS Writing Task 1 using 4 assessment criteria - Task Response, Coherence
+and Cohesion, Lexical Resource and Grammatical Range and Accuracy. Below you’ll find feedback on this
+sample model response.</string>
+    <string name="writing_sixth_text_first">1. Task Response: Are all parts of the prompt addressed, a position taken and supported and is the
+response in an essay format?\n
+All parts of the prompt are addressed and appropriate examples given. Problems described in the
+second paragraph are related to economic prosperity in general, while in the third paragraph the
+problems described are related more directly to developing countries.\n
+Solutions are suggested in the third paragraph and a succinct conclusion is given at the end.
+This is in an appropriate essay format.</string>
+    <string name="writing_sixth_text_second">2. Coherence and Cohesion: Is the response easy to follow because of appropriate paragraphing, range
+and accuracy of cohesive devices, and referencing?\n
+There are five paragraphs here. The first serves as an introduction, the second, third, and fourth as
+body paragraphs, and the last as a conclusion.\n
+The introduction presents the idea of water scarcity, effects, and the idea of long-term solutions
+requiring both government and individual action. Each body paragraph is well-organized and ideas
+can easily be followed. The second paragraph begins, “A major problem”, then “When there is insufficient
+water”, then “Without an adequate water supply”, then “Ultimately…”\n
+The fourth paragraph, which covers solutions is easy to follow. “One of the most important …”,\n
+“Additionally”, “as we take steps…”, “These technologies could then…”, “At an individual level…”\n
+Both overall organization of paragraphs and internal organization is clear and a range of discourse
+markers is used accurately. </string>
+    <string name="writing_sixth_text_third">3. Lexical Resource: How wide a range of vocabulary is used and how accurate is usage and spelling?
+There is a wide range of vocabulary here with no error. Less common items are used quite skillfully.\n
+Examples: “Water scarcity”, “far-reaching effects”, “extensive government intervention”, “climate mitigation”. </string>
+    <string name="writing_sixth_text_forth">4. Grammatical Range and Accuracy: How wide is the range of grammatical structures and how frequent
+are errors? Is punctuation accurate?\n
+There is a wide range of grammatical structures here with no error. Punctuation is accurate.\n
+Examples: “Long-term solutions require extensive government intervention in programmes, including
+research and climate mitigation measures, but individuals also need to become aware of the need for water
+conservation.”, “…spend the whole day walking to and from a remote water source to fetch water.”, “…the water
+that is available for daily use may be contaminated, and this can lead to illness and even death.” </string>
+
+    <!-- SpeakingActivity Texts -->
+    <string name="speaking_first_warning">Speaking \n 11–14 Minutes </string>
+    <string name="speaking_first_title">PART 1 – INTRODUCTION AND INTERVIEW: \n Let’s talk about
+        your home town or village. </string>
+    <string name="speaking_first_text_first">What kind of place is it? \n
+        • What’s the most interesting part of your town/village? \n
+        • What kind of jobs do the people in your town/village do? \n
+        • Would you say it’s a good place to live? Why? </string>
+
+    <string name="speaking_second_warning">Speaking \n
+        11-14 Minutes \n
+        PART 2 – INDIVIDUAL LONG TURN: </string>
+    <string name="speaking_second_title">Candidate Task Card \n
+        Describe a well-known person you like or admire. \n
+        You should say: \n
+        • Who is this person?  \n
+        • What has this person done?  \n
+        • Why is this person well-known? \n
+        • Explain why you like or admire\n this person? </string>
+    <string name="speaking_second_text_first">
+        • You will have to talk about the topic for 1 to 2 minutes.\n
+        • You have one minute to think about what you’re going to say.\n
+        • You can make some notes to help you if you wish.</string>
+    <string name="speaking_third_warning">We’ve been talking about a well-known person that you
+        admire and I’d like to discuss with you a few more questions related to this topic. Let’s
+        consider famous people in your country.</string>
+    <string name="speaking_third_title">
+        • What kind of people become famous in your country?\n
+        • What’s different about people who became famous in the past with the people who become
+    famous these days?\n
+        • Do you think it was more difficult to become famous in the past?\n
+        • What kind people may become famous in the future?\n </string>
+
+</resources>

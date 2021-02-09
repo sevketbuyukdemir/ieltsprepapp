@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/btn_reading_submit"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:text="@string/submit_button_text"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textColor="@color/white" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_reading_question"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
